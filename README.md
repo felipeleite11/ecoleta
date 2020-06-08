@@ -1,4 +1,4 @@
-<h1 align="center">Online quiz game with NodeJS + ReactJS</h1>
+<h1 align="center">WEB app with NodeJS + ReactJS</h1>
 
 This project implements a web app to store garbage collect points, using ReactJS, Typescript, Knex Query Builder, Multer and SQLite.
 
